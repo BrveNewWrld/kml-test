@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>EDR ACER Polygons.kmz</name>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl101">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin101">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="PolyStyle5305">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>00ffffff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="PolyStyle5303">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PolyStyle5305</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PolyStyle530</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl80">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin21">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl01">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin10000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>0dffffff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="PolyStyle5301">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PolyStyle5304</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PolyStyle5302</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>0dffffff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin10000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin212">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>0dffffff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin01">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl2200">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl20">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin211">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin221">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl80</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin300">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>0dffffff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle5304">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>00ffffff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1002</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle5302">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>00ffffff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="PolyStyle530">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>00ffffff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl300">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1002">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin212</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl25">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1010">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1000">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>0dffffff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin200">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>0dffffff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Folder id="0BC2FDE912295B1AD30D">
+		<name>EDR ACER Polygons</name>
+		<Placemark id="1A5B595A75295B1AD30D">
+			<name>T_24 Area</name>
+			<open>1</open>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.8443034143112,24.45895085808107,0 -81.84426328514442,24.45890332247959,0 -81.84425801130675,24.45887815219969,0 -81.84425976906871,24.45883530659786,0 -81.84422929846249,24.45880942827466,0 -81.84428007064957,24.45874927046765,0 -81.8442647089575,24.45870562021501,0 -81.84423814816941,24.45866527605808,0 -81.84418480474739,24.45871191070816,0 -81.8441977467899,24.45876352038501,0 -81.84416335649478,24.45881728209191,0 -81.8441912256642,24.45887145287262,0 -81.84420423845407,24.45892796415245,0 -81.84425227822121,24.45897482841302,0 -81.8443034143112,24.45895085808107,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="0F2DB7DC1B295B1AD30E">
+			<name>T-1b Area</name>
+			<open>1</open>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84435021697604,24.45890900390631,0 -81.84431671498089,24.45895754775428,0 -81.84429825468759,24.45896128189653,0 -81.8441991160113,24.4590222728112,0 -81.84407126115816,24.45904218807668,0 -81.84409382373168,24.45907392831725,0 -81.84411091661336,24.45909259904649,0 -81.84423535290107,24.45904841181811,0 -81.84433449157164,24.45900297979586,0 -81.84438030043484,24.45895879245277,0 -81.84435021697604,24.45890900390631,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="0504678DF8295B1AD30F">
+			<name>T-1a Area</name>
+			<open>1</open>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84444772811605,24.4591937425701,0 -81.84443438116503,24.45915932010592,0 -81.84439508189084,24.45907697620362,0 -81.84436838809468,24.45904862830936,0 -81.84431351755542,24.45904592851919,0 -81.84426754494052,24.45906145237025,0 -81.84424381712772,24.45908372571742,0 -81.84426754491452,24.4591390716373,0 -81.84428534076996,24.4591707942993,0 -81.84430758560386,24.45921061636965,0 -81.84435578276316,24.45920994141875,0 -81.84433946986391,24.45916539469656,0 -81.84432760594765,24.4591356968914,0 -81.84431277606228,24.4591127485876,0 -81.84431203456796,24.45909654978407,0 -81.84434985076227,24.45909519987794,0 -81.84437357860777,24.45916067003719,0 -81.84439656497331,24.45920184199761,0 -81.84444772811605,24.4591937425701,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="1C045946A8295B1AD30F">
+			<name>T-23 Area</name>
+			<open>1</open>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84422829135507,24.45821234721165,0 -81.84428008908716,24.45831271393013,0 -81.84432500611237,24.45828604552096,0 -81.84426571039192,24.4581695701801,0 -81.84421053686096,24.45811816133335,0 -81.84417715364431,24.45807541791197,0 -81.844135624014,24.45807295881387,0 -81.84409070708149,24.4580996271957,0 -81.84406280388509,24.45811575259514,0 -81.84412071784328,24.45819752546194,0 -81.84416427747112,24.45817829412745,0 -81.84413907084165,24.45814794082112,0 -81.84410909444351,24.45811015337145,0 -81.84422829135507,24.45821234721165,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="2D61FF228A295B1AD30F">
+			<name>T-2 Area</name>
+			<styleUrl>#m_ylw-pushpin26</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84389466816175,24.45926132925918,0 -81.84391022398357,24.45920920576101,0 -81.84392455494145,24.45921972270574,0 -81.84396125903135,24.45917996424845,0 -81.84395316502717,24.45921718983203,0 -81.84399812958421,24.45921586749048,0 -81.84401249194794,24.45924064851839,0 -81.84402551213407,24.45927473470049,0 -81.84403651431792,24.45932060799437,0 -81.84402500142686,24.4593522581942,0 -81.84399433914353,24.45935107372743,0 -81.84396579043933,24.45938151461611,0 -81.84397954384075,24.45943916635107,0 -81.84407819382801,24.45937448771242,0 -81.84409373866475,24.45931740274199,0 -81.84409354890627,24.45923119798439,0 -81.84406619771808,24.45918659486728,0 -81.84400478998417,24.45914639512588,0 -81.84394957832436,24.45913533254602,0 -81.84390464244642,24.45914967861129,0 -81.84385293699583,24.45918388277131,0 -81.84381960949338,24.4592099910728,0 -81.84380265144355,24.45924413188986,0 -81.84385588597631,24.45928558696785,0 -81.84386064568577,24.45928123703187,0 -81.84389466816175,24.45926132925918,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="0BDD65D9D8295B1AD310">
+			<name>T-3 Area</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84500631182516,24.45888613656483,0 -81.8449568228129,24.45890692792947,0 -81.8449730885041,24.45894504529637,0 -81.84499489143475,24.4589752871712,0 -81.84503088352321,24.45898253258653,0 -81.84506445303843,24.45897339696203,0 -81.84507518138703,24.45894882539275,0 -81.84507587348311,24.45892330878424,0 -81.84507518125581,24.45889747716069,0 -81.84507275864276,24.45886849534192,0 -81.84507345075713,24.45884518387394,0 -81.84506964384808,24.45881746213276,0 -81.84505856935702,24.45880895662437,0 -81.84502707633786,24.45881399700423,0 -81.84503365188981,24.45886503019907,0 -81.84503226762463,24.45888802664267,0 -81.84503503631549,24.45892236379295,0 -81.8450308834129,24.45893496459147,0 -81.84501669423116,24.45893086935363,0 -81.84500631182516,24.45888613656483,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="1843BCCCE4295B1AD310">
+			<name>T-4 Area</name>
+			<styleUrl>#m_ylw-pushpin26</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84532274310943,24.45871268705476,0 -81.84529506538541,24.45875043545347,0 -81.84532878580237,24.4587698439214,0 -81.84535523654658,24.45879465108759,0 -81.84538938369091,24.45880121669322,0 -81.84542486591162,24.45879410924735,0 -81.84545574856766,24.45876505441316,0 -81.84543973027061,24.45872448623874,0 -81.84547386000872,24.45872318089935,0 -81.84553253954255,24.45871023124113,0 -81.84561255937098,24.45867487230932,0 -81.84559693563496,24.45860696214473,0 -81.84545458456175,24.45865030636335,0 -81.84543051283237,24.45867230630099,0 -81.84539775024896,24.45867443765484,0 -81.84538007923358,24.45870968217823,0 -81.84540657029474,24.45875271672336,0 -81.84539566255033,24.4587593648796,0 -81.84537284344329,24.45873040846089,0 -81.84536052827333,24.4587180032119,0 -81.84532274310943,24.45871268705476,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="22B5C9C227295B1AD310">
+			<name>T-5 Area</name>
+			<styleUrl>#m_ylw-pushpin26</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84458458861586,24.45928624702973,0 -81.84459808757384,24.45928731544925,0 -81.84455289516673,24.45923496024037,0 -81.84450887699469,24.45925900116649,0 -81.84445957659597,24.45927823394629,0 -81.84442905729824,24.45929052154406,0 -81.84438679980853,24.45930975427758,0 -81.84434571611838,24.45933219243426,0 -81.84430228477397,24.45935463058998,0 -81.84425474498256,24.4593663839698,0 -81.84429054669116,24.45941125996072,0 -81.844346303264,24.45940378044222,0 -81.8443868000372,24.45937226021915,0 -81.8444683804811,24.45932952083281,0 -81.8444906829975,24.45930868543998,0 -81.84458458861586,24.45928624702973,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="3E84AD52E1295B1AD310">
+			<name>T-6 Area</name>
+			<styleUrl>#m_ylw-pushpin31</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84506499488751,24.45937274076672,0 -81.84505485618479,24.45932096219028,0 -81.84511614025025,24.45930844192239,0 -81.8451336549745,24.45925770443187,0 -81.84508109822067,24.45923190650476,0 -81.84502575919255,24.45921596284404,0 -81.84500015518434,24.45923461564384,0 -81.84493607274922,24.45925005943752,0 -81.84493407413656,24.45925225193421,0 -81.84488881279199,24.45926182310799,0 -81.84490373405626,24.45930228449377,0 -81.84493139174084,24.45930514952598,0 -81.84496901535664,24.45928537931361,0 -81.84502544483108,24.45925317055262,0 -81.84498508380925,24.45930212807489,0 -81.84502159834985,24.45932248526177,0 -81.84503527931987,24.45934653411229,0 -81.84500049473361,24.45938088988925,0 -81.84502177787017,24.45939981726558,0 -81.84506499488751,24.45937274076672,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="4A1BF27D3B295B1AD310">
+			<name>T-7 Area</name>
+			<styleUrl>#m_ylw-pushpin1000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.8456432715044,24.45863602369709,0 -81.84567707403177,24.45864440210141,0 -81.84571171680366,24.45865124118226,0 -81.8457342377265,24.45854972110058,0 -81.8457299177462,24.4585143707481,0 -81.84570477751255,24.45849322919801,0 -81.84565968178771,24.45846225971871,0 -81.84562259683578,24.45848848034403,0 -81.84560931206936,24.45857076173277,0 -81.84563699155132,24.45859013849994,0 -81.84564898509726,24.45859129101096,0 -81.84566322998215,24.45858624373313,0 -81.84566479982351,24.45856795121417,0 -81.84566182954363,24.45854848915313,0 -81.84566472167889,24.45853963306068,0 -81.84567168690093,24.45852834053476,0 -81.84569001965686,24.45854724476367,0 -81.8456432715044,24.45863602369709,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="0ECBC0306D295B1AD311">
+			<name>T-8 Area</name>
+			<styleUrl>#m_ylw-pushpin26</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.8453477759378,24.45911941697029,0 -81.84541301066766,24.45910516503363,0 -81.84535516849928,24.45905449427628,0 -81.84532559484812,24.45900540671049,0 -81.84527645133215,24.45900778239459,0 -81.84524905293343,24.4590275761295,0 -81.84520164931423,24.45905726676226,0 -81.8451820793217,24.45910081256599,0 -81.84519904074078,24.45913802415247,0 -81.84525731736618,24.45915662952205,0 -81.84529384867409,24.45913841920297,0 -81.84524122560164,24.45910833358411,0 -81.84523905091841,24.45909012360769,0 -81.84526427494326,24.45908101838671,0 -81.84530298064762,24.45905528651067,0 -81.84530646010515,24.45907983039536,0 -81.84532820537866,24.45911031215156,0 -81.8453477759378,24.45911941697029,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="13AB0C284F295B1AD311">
+			<name>T-9 Area</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84585385532675,24.45912745887901,0 -81.8458188930254,24.45906872428899,0 -81.84579475229471,24.4590296941455,0 -81.845742717628,24.45903310083299,0 -81.84568901757062,24.45904029655858,0 -81.84567194772998,24.45907098767328,0 -81.84567236095553,24.45910736375687,0 -81.84569774989879,24.45915321450463,0 -81.8457056578614,24.45916837174318,0 -81.84574520540416,24.45915170212166,0 -81.84572730953951,24.45910395730816,0 -81.84575395162666,24.45909827538724,0 -81.84579307857251,24.45913351738845,0 -81.84585385532675,24.45912745887901,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="25AA53908F295B1AD311">
+			<name>T-10 Area</name>
+			<styleUrl>#m_ylw-pushpin25</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84619020760258,24.45874387830056,0 -81.84624914179692,24.45871564383409,0 -81.84617883441571,24.45866576323917,0 -81.84608681444811,24.45876176013061,0 -81.84606923760313,24.45877964187128,0 -81.84605579649832,24.45879611188928,0 -81.84601702406934,24.45884363964356,0 -81.84599789631733,24.45889493196363,0 -81.8460402874579,24.45892457803241,0 -81.84608009382093,24.45884928653425,0 -81.84619020760258,24.45874387830056,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="3403475271295B1AD311">
+			<name>T-11 Area</name>
+			<styleUrl>#m_ylw-pushpin26</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84411494747798,24.45893568531051,0 -81.84410990693881,24.45890165670397,0 -81.84409226525732,24.45887489265141,0 -81.84407714382178,24.45884315812634,0 -81.84405362163304,24.45882059986663,0 -81.84397591447934,24.45874948394633,0 -81.84391668908447,24.45879345351861,0 -81.84389022666265,24.4588420111846,0 -81.84395995306694,24.45887948087449,0 -81.84396793379801,24.4588725986841,0 -81.84399103591079,24.45885654023415,0 -81.84402211877456,24.45886915756067,0 -81.8440410205301,24.45888483364289,0 -81.8440750437461,24.45893186190822,0 -81.84411494747798,24.45893568531051,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="47F31AD4BE295B1AD311">
+			<name>T-12(1) Area</name>
+			<styleUrl>#m_ylw-pushpin211</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84306553900666,24.45917479910856,0 -81.84312897478611,24.45914962970071,0 -81.84308993774496,24.45912051136257,0 -81.84308234741367,24.459090406191,0 -81.84306662426779,24.45906721033803,0 -81.84304710599241,24.45902822160964,0 -81.84302379235162,24.45900107748902,0 -81.84298421307069,24.45899021961718,0 -81.84294409169209,24.45897195883258,0 -81.84292836849836,24.45896011407972,0 -81.84290071693427,24.4589838031287,0 -81.84306553900666,24.45917479910856,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="563A9D3F13295B1AD311">
+			<name>T-12(2) Area</name>
+			<styleUrl>#m_ylw-pushpin211</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.8431250266335,24.45909326815366,0 -81.8431640230795,24.45906500266082,0 -81.84310480756369,24.45895588337124,0 -81.84306364543937,24.45890658239236,0 -81.84303403745396,24.45888751924499,0 -81.84298348676965,24.45890723919354,0 -81.8431250266335,24.45909326815366,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="0E075F39B8295B1AD312">
+			<name>T-12(3) Area</name>
+			<styleUrl>#msn_ylw-pushpin50</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84334730100115,24.45904712476256,0 -81.84334807411871,24.45902742125227,0 -81.8433248820334,24.4589774587394,0 -81.84329937079738,24.45892045926778,0 -81.84325685188074,24.45889020020333,0 -81.8432035097503,24.45891271829879,0 -81.84322283643885,24.45894579208368,0 -81.84325685154856,24.45897675483123,0 -81.84326767443251,24.45901545815565,0 -81.84330246262438,24.45906401333687,0 -81.84334730100115,24.45904712476256,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="1A6970B37A295B1AD312">
+			<name>T-13(1) Area</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84378586229278,24.45955076522608,0 -81.84370857219919,24.45950411030656,0 -81.84360270292493,24.45959097432729,0 -81.84364778144779,24.45961545820061,0 -81.84370642183157,24.45966156921825,0 -81.84372576946144,24.45968259820278,0 -81.84377455732577,24.4596514673405,0 -81.84373776608993,24.45960003985209,0 -81.84378586229278,24.45955076522608,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="2CC41C0D8C295B1AD312">
+			<name>T-13(2) Area</name>
+			<styleUrl>#msn_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84347181946053,24.4597837623543,0 -81.84348213439903,24.45973300406965,0 -81.84346002499024,24.45971561281583,0 -81.84342691959795,24.45971145829316,0 -81.84340136339439,24.45970781551475,0 -81.84335900521616,24.4597174223331,0 -81.84330676554785,24.45972282309541,0 -81.84326208494764,24.45973243503679,0 -81.84321512434778,24.45975790683909,0 -81.84321866448735,24.45977903874929,0 -81.8433022437913,24.45976881208518,0 -81.843343445046,24.45976079332575,0 -81.84339976305341,24.45976066844089,0 -81.84347181946053,24.4597837623543,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="303562E85D295B1AD312">
+			<name>T-13(3) Area</name>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84321209446016,24.45992756018518,0 -81.8432573924847,24.45993168772902,0 -81.84330220467531,24.45997122542899,0 -81.84337182146049,24.45995045981351,0 -81.84334039270965,24.45992199082662,0 -81.84331064638778,24.45987132136194,0 -81.84323110153323,24.45987044072256,0 -81.843163165847,24.45986847732039,0 -81.84310871961173,24.45991721939698,0 -81.84318149801288,24.45999316122782,0 -81.84321209446016,24.45992756018518,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="42A2EC1882295B1AD312">
+			<name>T-14 Area</name>
+			<styleUrl>#m_ylw-pushpin1000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84372486360979,24.45887406806473,0 -81.84374514625446,24.45889840492243,0 -81.84376911666796,24.45893323180236,0 -81.84379769678651,24.45895337263121,0 -81.84381152589756,24.45897980748721,0 -81.84383226955386,24.45899826991701,0 -81.84381521368722,24.45901043836357,0 -81.84379631393216,24.45902344600892,0 -81.84376865575551,24.45903435564906,0 -81.84375805344945,24.45902260682535,0 -81.84374145853843,24.45901295600763,0 -81.84373500496172,24.45900540319186,0 -81.84372716847574,24.45899113676005,0 -81.84370826873025,24.45899113676354,0 -81.84369858837236,24.45897561152893,0 -81.84369029092493,24.45897561152935,0 -81.84364880368844,24.45898022713478,0 -81.84366124985151,24.45901547361736,0 -81.84368291541439,24.45903015965228,0 -81.84371057358879,24.45904316728566,0 -81.8437534437914,24.45907715496831,0 -81.84381060404776,24.45905995130115,0 -81.84386638138336,24.45902806156939,0 -81.84387560070302,24.45897267419877,0 -81.84385163020968,24.45892400048806,0 -81.84380138450234,24.45888162083035,0 -81.84375667047129,24.4588518291801,0 -81.84372486360979,24.45887406806473,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="54772695A3295B1AD312">
+			<name>T-15 Area</name>
+			<styleUrl>#m_ylw-pushpin30</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.8428410709129,24.45960749261492,0 -81.84267064111924,24.45950134835516,0 -81.84262280128422,24.45960930720692,0 -81.84276133784978,24.4597163588219,0 -81.8428410709129,24.45960749261492,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="033A599FA7295B1AD313">
+			<name>T-16 Area</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.8448831386677,24.45880309202817,0 -81.84485643852982,24.45875103685016,0 -81.84484562783651,24.45871214516805,0 -81.84478694372626,24.45869949421305,0 -81.84477400005524,24.45874550109043,0 -81.84477505453572,24.4587723768789,0 -81.84480932511876,24.45881269055583,0 -81.84484992260059,24.45885828339355,0 -81.84488735668391,24.45891251488467,0 -81.84494060792153,24.45889331785058,0 -81.8448831386677,24.45880309202817,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="1A6A15C2C0295B1AD313">
+			<name>T-17 Area</name>
+			<styleUrl>#m_ylw-pushpin221</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84537693157802,24.45921798280708,0 -81.84539047293106,24.45920174207619,0 -81.84538500793779,24.4591717655844,0 -81.84537180912048,24.45915414334411,0 -81.84535668258951,24.45914393066859,0 -81.8453473706048,24.45913512252787,0 -81.84531288162508,24.45913480774399,0 -81.84528343638031,24.45913907295874,0 -81.84525631620221,24.45914333561454,0 -81.84522494743176,24.45915818499738,0 -81.84519474915025,24.45917902958699,0 -81.84517772249703,24.45919703781259,0 -81.84515370985676,24.45920694080176,0 -81.84514287684553,24.45922000392226,0 -81.84516151860174,24.45925102415377,0 -81.84520376535923,24.45925697420325,0 -81.84523435539053,24.45923930378979,0 -81.84523277960074,24.45921990507649,0 -81.84522966546247,24.45920932643968,0 -81.84523662100707,24.45919450390521,0 -81.84523817059026,24.45919414946565,0 -81.84526957400851,24.45920540245843,0 -81.84526805065255,24.45922551004949,0 -81.8452765553545,24.45925014990298,0 -81.84530277325663,24.45924635218439,0 -81.84531032989466,24.45922058985794,0 -81.84529980880995,24.45921207117049,0 -81.84528274753166,24.45920397702631,0 -81.84527460931663,24.45920363324323,0 -81.84526917760103,24.45919870092297,0 -81.84527381134986,24.45918635008879,0 -81.84528193504127,24.45917575909268,0 -81.84529044390439,24.45916340399393,0 -81.84530865085198,24.45915879840602,0 -81.8453272607676,24.45916583263592,0 -81.84532418128661,24.45918135638152,0 -81.84532809200184,24.45920815996374,0 -81.84534089065714,24.45921625879333,0 -81.84534941919081,24.45921871855544,0 -81.84537693157802,24.45921798280708,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="2C0DF113D4295B1AD313">
+			<name>T-18 Area</name>
+			<styleUrl>#PolyStyle5301</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84604363785616,24.45928954421038,0 -81.84607076506653,24.45926400001969,0 -81.84606141081829,24.45922227787167,0 -81.84606936185736,24.4591665064114,0 -81.84602305854325,24.45917629837409,0 -81.84602492939892,24.45921631758274,0 -81.84599967304507,24.45924824780469,0 -81.84600154389811,24.4592806037587,0 -81.84604363785616,24.45928954421038,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="3822D4900D295B1AD313">
+			<name>T-19 Area</name>
+			<styleUrl>#PolyStyle5303</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84264134513171,24.45929057571692,0 -81.84263974282369,24.45927793537845,0 -81.84262532215227,24.45924341752117,0 -81.84258793524067,24.45920112099261,0 -81.842546809689,24.45915542129041,0 -81.84256123035091,24.45914910113467,0 -81.84258312838577,24.45916174148428,0 -81.84260395820972,24.45919091149933,0 -81.84262425396514,24.45921424751237,0 -81.84265042481316,24.45924341753084,0 -81.84265095891183,24.45926237803835,0 -81.84265309532154,24.45929106189195,0 -81.84265523172904,24.45933384459616,0 -81.84269315284178,24.45935815298601,0 -81.84270436890895,24.4593187734426,0 -81.84270436888247,24.4592857140677,0 -81.84269048226669,24.45922445702995,0 -81.84266110680565,24.45918216051031,0 -81.84262745857984,24.45915250432918,0 -81.84259060580706,24.45911020780138,0 -81.84252811629382,24.45911118009986,0 -81.84250888871451,24.45913840541832,0 -81.84252330932405,24.4591768126071,0 -81.84254680964089,24.45920112096326,0 -81.84257565093989,24.45924001432555,0 -81.84260983325959,24.45928328319499,0 -81.84262799263561,24.45930224371627,0 -81.84264134513171,24.45929057571692,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="4A794B1530295B1AD313">
+			<name>T-20 Area</name>
+			<styleUrl>#m_ylw-pushpin40</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.8435179431598,24.45906675300765,0 -81.84349989163111,24.45902703225487,0 -81.84346405612585,24.45899681835294,0 -81.8434317210277,24.45897549178213,0 -81.84339300326808,24.45894424344222,0 -81.84337783418356,24.45890555715294,0 -81.84336329735042,24.45887734222557,0 -81.84332919082962,24.45884764424979,0 -81.84329685582169,24.45882631765202,0 -81.84327947081968,24.45880335262417,0 -81.84327889264505,24.45880283152056,0 -81.84324831492894,24.45878725781522,0 -81.84319767753452,24.45878591456113,0 -81.84313502365914,24.45879667070164,0 -81.84314041208432,24.45883540103881,0 -81.84320253899028,24.45883355035316,0 -81.84326491051408,24.4588767376433,0 -81.84333958872172,24.4589612426033,0 -81.84340559730988,24.45903845463437,0 -81.84345129307012,24.45908328806053,0 -81.8435179431598,24.45906675300765,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="5B35B0C140295B1AD313">
+			<name>T-21 Area</name>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84297415136975,24.45881875200472,0 -81.84291421473492,24.45879410742882,0 -81.84285332781934,24.45883285110136,0 -81.8428390630198,24.45889485392394,0 -81.84282940163199,24.45895265754213,0 -81.84276595123424,24.45898860708974,0 -81.84280746932333,24.4590258537202,0 -81.84286683322331,24.45899829758861,0 -81.84289240777619,24.45897496877444,0 -81.84291235809398,24.45895863662429,0 -81.84290620229879,24.45894885481886,0 -81.84288670380245,24.45891345131008,0 -81.84289998683251,24.45888780392491,0 -81.84291582568758,24.45885842539521,0 -81.84293374575981,24.45885747594069,0 -81.8429644769833,24.45886536969756,0 -81.84298242854857,24.45889145303205,0 -81.84304077054529,24.4588657621077,0 -81.84304581381429,24.45879957335597,0 -81.84297415136975,24.45881875200472,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="0ECB14A7D9295B1AD314">
+			<name>T-22 Area</name>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-81.84351265165536,24.45931872439564,0 -81.84346519461714,24.4593423235058,0 -81.84342240232631,24.45936630313435,0 -81.84338173229426,24.45939182412746,0 -81.84336015066089,24.45942272644077,0 -81.84335978943133,24.45946749884691,0 -81.84336363807681,24.45949065230028,0 -81.84337044565314,24.45950724090743,0 -81.84338278983998,24.45954119152731,0 -81.84341882495281,24.45953651807196,0 -81.84341964970392,24.45951992058544,0 -81.84341665936904,24.45950409947404,0 -81.84340602207904,24.45947786618693,0 -81.8434055601592,24.45945084914301,0 -81.84340637408644,24.4594265323749,0 -81.84343220943556,24.45940527424352,0 -81.84345552178611,24.45939907169304,0 -81.8434995796482,24.45937045900592,0 -81.84354193875109,24.45933991842833,0 -81.84351265165536,24.45931872439564,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
